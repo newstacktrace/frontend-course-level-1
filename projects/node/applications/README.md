@@ -1,0 +1,1 @@
+A ideia aqui é gerar as bibliotecas com webpack ou node de forma geral
